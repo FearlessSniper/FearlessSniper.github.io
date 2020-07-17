@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "How to install cangjie on Arch Linux"
-date:   2020-07-17 14:58:55 +0800
 ---
 ## The cangjie input method
 The cangje input method is a common input method to enter Chinese text into computers. The input method is common among people in Hong Kong, however installing it is quite a hassle compared to Windows or macOS, where it is available when the OS is installed with *Chinese (Hong Kong)* or `zh_HK` locale.
